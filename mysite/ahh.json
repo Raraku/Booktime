@@ -1,0 +1,17 @@
+[{
+    "model": "books.author",
+    "pk": 2,
+    "fields": {
+        "first_name": "aire",
+        "last_name": "afsfsaf",
+        "email": "sfsafsa@hfhfhe.com"
+    }
+}, {
+    "model": "books.author",
+    "pk": 3,
+    "fields": {
+        "first_name": "fasfaf",
+        "last_name": "awfwfawf",
+        "email": "aaaa@gfgfgf.com"
+    }
+}]

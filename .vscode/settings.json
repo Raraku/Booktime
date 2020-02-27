@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/home/israelaire/.local/share/virtualenvs/booktime-AUV7q-k6/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.formatting.provider": "black"
+}
