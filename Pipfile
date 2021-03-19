@@ -8,7 +8,7 @@ pylint = "*"
 black = "*"
 
 [packages]
-django = "==2.2.1"
+django = "==2.2.18"
 psycopg2 = "*"
 pillow = "*"
 django-extensions = "*"
